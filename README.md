@@ -32,4 +32,4 @@
 
 ## 💻 Projeto
 
-Esse projeto visa completar o desafio proposta pela [Creditas](https://github.com/Creditas), visando aumentar as minhas habilidades em quanto desenvolvedor. Um app que lista os seus repositórios e commits do github depois de uma autenticação Basic.
+Esse projeto visa completar o desafio proposta pela [Creditas](https://github.com/Creditas), com o propósito de aumentar as minhas habilidades em quanto desenvolvedor. Um app que lista os seus repositórios e commits do github depois de uma autenticação Basic.
